@@ -1,4 +1,5 @@
 # got
+[![Build Status](https://travis-ci.org/odinliu/got.svg)](https://travis-ci.org/odinliu/got)
 
 用trick的方式解决`golang.org/x`在国内被墙无法用go get的问题。
 
